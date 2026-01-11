@@ -55,7 +55,10 @@ This acts as a **safety valve** for the control system.
 
 ## Status
 
-This is a private research repository used to maintain and refine
-a stability-first decision framework.
+This repository is public as a timestamped research archive.
 
-This repository is public as a timestamped archive. An English write-up may be added later.
+It represents an ongoing, independent line of thought developed by the author.
+The material is not affiliated with any organization, employer, or institution.
+
+Updates may occur occasionally when the author has sufficient time and capacity.
+There is no fixed roadmap or release schedule.
