@@ -62,3 +62,35 @@ The material is not affiliated with any organization, employer, or institution.
 
 Updates may occur occasionally when the author has sufficient time and capacity.
 There is no fixed roadmap or release schedule.
+
+## License
+
+Text and figures in this repository are licensed under the  
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+You are free to share and adapt the material for any purpose,  
+provided appropriate credit is given to the author.
+
+See: https://creativecommons.org/licenses/by/4.0/
+
+## Citation
+
+If you refer to or build upon this work, please cite it as:
+
+AmediaFujiwara.  
+*Emotion-Aware Stability-First Control*.  
+GitHub repository, 2026.  
+https://github.com/AmediaFujiwara/emotion-aware-control
+
+BibTeX:
+
+```bibtex
+@misc{amedia2026emotion,
+  author       = {AmediaFujiwara},
+  title        = {Emotion-Aware Stability-First Control},
+  year         = {2026},
+  howpublished = {\url{https://github.com/AmediaFujiwara/emotion-aware-control}}
+}
+
+
+
