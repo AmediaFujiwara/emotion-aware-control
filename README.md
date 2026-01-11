@@ -58,4 +58,4 @@ This acts as a **safety valve** for the control system.
 This is a private research repository used to maintain and refine
 a stability-first decision framework.
 
-Public release may or may not happen in the future.
+This repository is public as a timestamped archive. An English write-up may be added later.
