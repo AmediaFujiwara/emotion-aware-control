@@ -152,7 +152,7 @@ k_t \in \{\text{Env}, \text{Inst}, \text{Proc}\}
 k_t =
 \arg\max_{k}
 \left(
-w_k^\top R_t + c_k
+w_k^\top R_t - c_k
 \right)
 \]
 
